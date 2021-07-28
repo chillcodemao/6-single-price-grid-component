@@ -1,0 +1,1 @@
+# 6-single-price-grid-component
