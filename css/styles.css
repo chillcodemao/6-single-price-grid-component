@@ -122,3 +122,10 @@ h1 {
         max-height: 25.9rem;
     }
 }
+
+@media (max-width: 373px) {
+    .sign-up-button {
+        padding: 1.4rem 4rem 1.4rem 4rem;
+        text-align: center;
+    }
+}
