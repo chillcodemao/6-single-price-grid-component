@@ -1,0 +1,92 @@
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Karla', sans-serif;
+    background-color: hsl(204, 43%, 93%);
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: hsla(179, 62%, 43%, 1);
+    line-height: 2.3rem;
+}
+
+.community-card {
+    background-color: #FFFFFF;
+}
+
+.subscription-card {
+    background-color: #2AB3B1;
+}
+
+.why-us-card {
+    background-color: #2AB3B1;
+    opacity: 0.75;
+}
+
+.community-card h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: hsla(71, 73%, 54%, 1);
+    line-height: 2rem;
+}
+
+.community-card p {
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: hsla(218, 22%, 67%, 1);
+    line-height: 2.6rem;
+}
+
+.subscription-card h2 {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: hsla(0, 0%, 100%, 1);
+    line-height: 2.1rem;
+}
+
+.price {
+    font-size: 3.2rem;
+    font-weight: 700;
+    color: hsla(0, 0%, 100%, 1);
+    line-height: 3.74rem;
+}
+
+.billing-period {
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: hsla(0, 0%, 100%, 1);
+    line-height: 3.74rem;
+}
+
+.subscription-card p {
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: hsla(0, 0%, 100%, 1);
+    line-height: 2.6rem;
+}
+
+.sign-up-button {
+    background-color: hsla(71, 73%, 54%, 1);
+    color: hsla(0, 0%, 100%, 1);
+    font-size: 1.6rem;
+    font-weight: 700;
+    line-height: 1.87rem;
+}
+
+.why-us-card h2 {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: hsla(0, 0%, 100%, 1);
+    line-height: 2.1rem;
+}
+
+.why-us-card p {
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: hsla(0, 0%, 100%, 1);
+    line-height: 2rem;
+}
